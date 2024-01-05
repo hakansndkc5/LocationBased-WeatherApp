@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mobile-project</string>
+    <string name="drawer_open">Drawer Açık</string>
+    <string name="drawer_close">Drawer Kapalı</string>
+    <string name="profile_picture_description">Profil Resmi</string>
+
+</resources>
